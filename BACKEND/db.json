@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "LIVRO TEC",
+      "price": 99.9
+    },
+    {
+      "id": 2,
+      "name": "Notebook Samsung",
+      "price": 3.5
+    },
+    {
+      "id": 3,
+      "name": "Iphone 12",
+      "price": 9.5
+    },
+    {
+      "name": "Geladeira",
+      "price": "5999",
+      "id": 4
+    }
+  ]
+}
